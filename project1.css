@@ -1,0 +1,63 @@
+body {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+h1 {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1tyrljf*_ga*MDU0NTI4MzY1NC4xNjYzNTk3Njk2*_ga_3LRZM6TM9L*MTY2NDU0Mzg1OC40MC4xLjE2NjQ1NDQ2ODcuMzIuMC4w);
+    background-size: cover;
+    height: 80px;
+    max-width: 800px;
+    border: solid 3px grey;
+    border-radius: 20px;
+    margin: 20px auto;
+    text-align: center;
+    padding-top: 25px;
+    color: lightgoldenrodyellow;
+    font-size: 55px;
+}
+
+h2 {
+    max-width: 400px;
+    border: solid 3px grey;
+    border-radius: 20px;
+    height: 125px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+    font-size: 50px;
+    font-weight: 10%;
+}
+
+h4 {
+    max-width: 400px;
+    text-align: center;
+    border: solid 3px grey;
+    background-color: lavenderblush;
+    color: gray;
+    border-radius: 20px;
+}
+
+h6 {
+    max-width: 400px;
+    text-align: center;
+    border: solid 3px grey;
+    background-color: lavenderblush;
+    color: gray;
+    border-radius: 20px;
+}
+
+.brushes {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/hacksaw.jpeg?_gl=1*1wie5hi*_ga*MDU0NTI4MzY1NC4xNjYzNTk3Njk2*_ga_3LRZM6TM9L*MTY2NDU0Mzg1OC40MC4xLjE2NjQ1NDQ2ODcuMzIuMC4w);
+    background-size: cover;
+}
+
+.frames {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/frames.jpeg?_gl=1*1jt7amu*_ga*MDU0NTI4MzY1NC4xNjYzNTk3Njk2*_ga_3LRZM6TM9L*MTY2NDU0Mzg1OC40MC4xLjE2NjQ1NDQ2ODcuMzIuMC4w);
+    background-size: cover;
+}
+
+.paint {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/finnish.jpeg?_gl=1*1c1af64*_ga*MDU0NTI4MzY1NC4xNjYzNTk3Njk2*_ga_3LRZM6TM9L*MTY2NDU0Mzg1OC40MC4xLjE2NjQ1NDQ2ODcuMzIuMC4w);
+    background-size: cover;
+}
